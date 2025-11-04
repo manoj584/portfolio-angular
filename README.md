@@ -246,6 +246,8 @@ This project is open-source and available under the MIT License.
 
 - Angular CLI for project setup and tooling
 
+---
+
 **Note**:
 This portfolio website is a demo project. The contact form is for demonstration purposes only.
 Please use the provided contact links to get in touch.
