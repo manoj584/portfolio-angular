@@ -139,9 +139,7 @@ Update your details in the following component files:
 
 ### Styling
 
-Edit global styles in:
-
-src/styles.css
+Edit global styles in: src/styles.css
 
 You can modify:
 
@@ -166,47 +164,47 @@ The website is fully optimized for:
 
 ## 🌟 Features in Detail
 
-Component-Based Architecture
+- Component-Based Architecture
 
-Each section is a separate Angular component
+- Each section is a separate Angular component
 
-Reusable and modular code
+- Reusable and modular code
 
-Clean imports and routing
+- Clean imports and routing
 
-Easy to scale and maintain
+- Easy to scale and maintain
 
-Smooth Navigation
+- Smooth Navigation
 
-Fixed navbar with active section highlight
+- Fixed navbar with active section highlight
 
-Smooth scrolling
+- Smooth scrolling
 
-Responsive collapsible menu
+- Responsive collapsible menu
 
-Interactive Elements
+- Interactive Elements
 
-Hover effects on cards and buttons
+- Hover effects on cards and buttons
 
-Fade and bounce animations
+- Fade and bounce animations
 
-Typing animation for intro titles
+- Typing animation for intro titles
 
-Contact Form
+- Contact Form
 
-Styled input fields with modern effects
+- Styled input fields with modern effects
 
-Demo form submission with alert message
+- Demo form submission with alert message
 
-Fully responsive layout
+- Fully responsive layout
 
-Skills Display
+- Skills Display
 
-Categorized skill badges
+- Categorized skill badges
 
-Clean layout with color differentiation
+- Clean layout with color differentiation
 
-Hover effects for interactivity
+- Hover effects for interactivity
 
 ### 🔧 Useful Angular CLI Commands
 
