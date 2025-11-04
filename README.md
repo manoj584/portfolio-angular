@@ -1,59 +1,249 @@
-# PortfolioWebsite
+🧑‍💻 Bhaskar Manoj - Portfolio Website (Angular)
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
+A modern, responsive portfolio website built with Angular showcasing my skills, experience, and projects as a Software Engineer and Full Stack Developer.
 
-## Development server
+🚀 Features
 
-To start a local development server, run:
+Responsive Design: Works seamlessly across all devices
 
-```bash
+Modern UI/UX: Clean, elegant, and professional layout with smooth animations
+
+Interactive Navigation: Smooth scrolling and active section highlighting
+
+Contact Form: Interactive form with demo functionality
+
+Social Links: Quick access to LinkedIn, GitHub, Email, and Phone
+
+Skills Showcase: Categorized display of technical skills and tools
+
+Project Portfolio: Detailed view of my featured projects
+
+Certifications: Display of professional certifications and achievements
+
+Modular Angular Architecture: Organized components for scalability and maintainability
+
+🛠️ Technologies Used
+
+Framework: Angular 19 (Generated with Angular CLI v19.2.15)
+
+Styling: CSS3, Bootstrap 5, Custom animations
+
+Icons: Font Awesome
+
+Fonts: Google Fonts (Inter)
+
+Architecture: Component-based Angular structure
+
+📋 Sections
+
+Home – Introduction with profile photo and social links
+
+About – Educational background and skill set
+
+Experience – Work experience and achievements
+
+Projects – Featured projects with technologies used
+
+Certifications – Professional certifications
+
+Contact – Contact information and message form
+
+⚙️ Getting Started
+Prerequisites
+
+Node.js (v14 or higher)
+
+Angular CLI (v19.2.15 or later)
+
+Installation
+
+Clone the repository:
+
+git clone <repository-url>
+cd portfolio-website
+
+
+Install dependencies:
+
+npm install
+
+
+Start the development server:
+
 ng serve
-```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
 
-## Code scaffolding
+Open your browser and navigate to
+👉 http://localhost:4200
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+🏗️ Building for Production
 
-```bash
-ng generate component component-name
-```
+To create a production build:
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
 ng build
-```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
 
-## Running unit tests
+The optimized build files will be generated in the dist/ directory.
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+🧩 Project Structure
+portfolio-website/
+├── src/
+│   ├── app/
+│   │   ├── components/
+│   │   │   ├── navigation/
+│   │   │   ├── home/
+│   │   │   ├── about/
+│   │   │   ├── experience/
+│   │   │   ├── projects/
+│   │   │   ├── certifications/
+│   │   │   ├── contact/
+│   │   │   └── footer/
+│   │   ├── app.component.html
+│   │   ├── app.component.ts
+│   │   └── app.module.ts
+│   ├── assets/
+│   │   └── MyImage.jpg
+│   ├── environments/
+│   └── index.html
+├── angular.json
+├── package.json
+└── README.md
 
-```bash
-ng test
-```
+🎨 Customization
+Personal Information
 
-## Running end-to-end tests
+Update your details in the following component files:
 
-For end-to-end (e2e) testing, run:
+navigation.component.html – Name in the navbar
 
-```bash
-ng e2e
-```
+home.component.html – Introduction, title, and social links
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+about.component.html – Education and skills
 
-## Additional Resources
+experience.component.html – Work experience
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+projects.component.html – Project details
+
+certifications.component.html – Certificates
+
+contact.component.html – Contact details
+
+footer.component.html – Footer text
+
+Styling
+
+Edit global styles in:
+
+src/styles.css
+
+
+You can modify:
+
+Color theme
+
+Font styles
+
+Animations
+
+Layout spacing
+
+Profile Image
+
+Replace src/assets/MyImage.jpg with your own profile photo.
+
+📱 Responsive Design
+
+The website is fully optimized for:
+
+Desktop (≥1200px)
+
+Tablet (768px–1199px)
+
+Mobile (≤767px)
+
+🌟 Feature Highlights
+Component-Based Architecture
+
+Each section is a separate Angular component
+
+Reusable and modular code
+
+Clean imports and routing
+
+Easy to scale and maintain
+
+Smooth Navigation
+
+Fixed navbar with active section highlight
+
+Smooth scrolling
+
+Responsive collapsible menu
+
+Interactive Elements
+
+Hover effects on cards and buttons
+
+Fade and bounce animations
+
+Typing animation for intro titles
+
+Contact Form
+
+Styled input fields with modern effects
+
+Demo form submission with alert message
+
+Fully responsive layout
+
+Skills Display
+
+Categorized skill badges
+
+Clean layout with color differentiation
+
+Hover effects for interactivity
+
+🔧 Useful Angular CLI Commands
+
+ng serve – Run the development server
+
+ng build – Build the app for production
+
+ng generate component <name> – Generate new components
+
+ng test – Run unit tests
+
+ng e2e – Run end-to-end tests
+
+For more details, visit the Angular CLI Documentation
+.
+
+📄 License
+
+This project is open-source and available under the MIT License
+.
+
+🤝 Contact
+
+Email: manojbhaskar01234@gmail.com
+
+LinkedIn: Bhaskar Manoj
+
+GitHub: Manoj584
+
+Phone: +91 8317557678
+
+🙏 Acknowledgments
+
+Bootstrap for responsive design
+
+Font Awesome for icons
+
+Google Fonts for typography
+
+Angular CLI for project setup and tooling
+
+Note:
+This portfolio website is a demo project. The contact form is for demonstration purposes only.
+Please use the provided contact links to get in touch.
