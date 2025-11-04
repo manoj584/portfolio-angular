@@ -164,13 +164,13 @@ The website is fully optimized for:
 
 ### Component Architecture
 
-**Modular Design:** Each section is a separate Angular component
+- **Modular Design:** Each section is a separate Angular component
 
-**Reusable Components:** Easy to maintain and update
+- **Reusable Components:** Easy to maintain and update
 
-**Clean Imports and Routing:** Well-structured navigation and imports
+- **Clean Imports and Routing:** Well-structured navigation and imports
 
-**Scalable Structure:** Easy to extend and maintain as the project grows
+- **Scalable Structure:** Easy to extend and maintain as the project grows
 
 ### Smooth Scrolling Navigation
 
