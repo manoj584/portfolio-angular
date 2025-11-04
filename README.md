@@ -139,9 +139,7 @@ Update your details in the following component files:
 
 ### Styling
 
-Edit global styles in: src/styles.css
-
-You can modify:
+Modify src/styles.css to customize:
 
 - Color theme
 
