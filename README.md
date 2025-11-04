@@ -162,45 +162,49 @@ The website is fully optimized for:
 
 ## 🌟 Features in Detail
 
-- Component-Based Architecture
+### Component Architecture
 
-- Each section is a separate Angular component
+**Modular Design:** Each section is a separate Angular component
 
-- Reusable and modular code
+**Reusable Components:** Easy to maintain and update
 
-- Clean imports and routing
+**Clean Imports and Routing:** Well-structured navigation and imports
 
-- Easy to scale and maintain
+**Scalable Structure:** Easy to extend and maintain as the project grows
 
-- Smooth Navigation
+### Smooth Scrolling Navigation
 
-- Fixed navbar with active section highlight
+- Fixed navigation bar with backdrop blur
 
-- Smooth scrolling
+- Active section highlighting
 
-- Responsive collapsible menu
+- Smooth scrolling behavior
 
-- Interactive Elements
+- Responsive collapsible menu for mobile view
+
+### Interactive Elements
 
 - Hover effects on cards and buttons
 
-- Fade and bounce animations
-
 - Typing animation for intro titles
 
-- Contact Form
+- Fade-in and bounce animations for sections
 
-- Styled input fields with modern effects
+- Smooth transitions for interactive actions
+
+### Contact Form
+
+- Styled input fields with modern design effects
 
 - Demo form submission with alert message
 
-- Fully responsive layout
+- Fully responsive and accessible layout
 
-- Skills Display
+### Skills Display
 
-- Categorized skill badges
+- Organized by categories (Languages, Frameworks, Tools)
 
-- Clean layout with color differentiation
+- Clean layout with color-coded badges
 
 - Hover effects for interactivity
 
