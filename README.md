@@ -204,7 +204,7 @@ The website is fully optimized for:
 
 - Hover effects for interactivity
 
-### 🔧 Useful Angular CLI Commands
+## 🔧 Useful Angular CLI Commands
 
 - ng serve – Run the development server
 
